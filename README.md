@@ -109,12 +109,12 @@
 <br><br>
 
 <img 
-  src="https://streak-stats.demolab.com?user=Trongpro296&theme=radical&hide_border=true" 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Trongpro296&theme=radical&hide_border=true" 
 />
 
 </div>
----
 
+---
 ### 🐍 Fun Fact: Commit Snake
 
 <div align="center">
